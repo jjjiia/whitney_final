@@ -1,0 +1,650 @@
+'monterey', 1
+'hampton', 1
+saint cloud', 1
+cincinnati', 8
+kamloops', 1
+escondido', 2
+newburgh', 4
+madison', 2
+sonoma', 2
+marion', 1
+paris', 9
+islip', 2
+shanghai', 1
+sumter', 1
+gruz alta', 1
+holyoke', 4
+burlington', 1
+goodyear', 1
+eindovern', 1
+flushing', 3
+tulsa', 2
+vaxholm', 1
+bryn mawr', 2
+miigata', 1
+lake forest', 1
+s\xc3\xa3o paulo', 1
+arecibo', 1
+syracuse', 5
+fukuoka', 1
+schaffhausen', 1
+norfolk', 4
+saint maries', 1
+mcminnville', 2
+hawaii', 1
+kalemyo', 1
+newport beach', 2
+plattsburgh', 1
+charleville-mezieres', 1
+colombo', 1
+fairfax', 1
+jamaica', 2
+edina', 1
+benicia', 2
+saint louis', 3
+stamford', 4
+quebec', 5
+lynwood', 1
+mcallen', 1
+chicago', 69
+liberty', 3
+council bluffs', 1
+richmond', 2
+gastonia', 3
+tuxpan', 1
+hazelton', 2
+racine', 1
+mckeesport', 2
+biala podlaska', 1
+los gatos', 1
+hempstead', 2
+passaic', 1
+leeds', 1
+terrell', 2
+hobart', 1
+niagara falls', 2
+easton', 1
+pineville', 1
+spokane', 1
+huntington', 1
+litchfield', 1
+guatemala city', 2
+ramat-gan', 1
+dublin', 1
+newfoundland', 4
+bartica', 1
+sumber', 1
+christchurch', 1
+seaford', 1
+brecksville', 1
+montreal', 5
+alexandria', 4
+wallingford', 5
+stockton', 2
+detroit and', 1
+cedar rapids', 2
+fort meyers', 1
+la jolla', 1
+san francisco', 44
+lima', 1
+pittsfiled', 1
+bratslav', 2
+parsippany', 1
+dehra dun', 1
+athens', 1
+fairfield', 2
+vicksburg', 1
+paterson', 1
+minot', 1
+milford', 1
+whichita', 1
+st. charles', 2
+hackensack', 2
+tonawanda', 1
+mansfield', 2
+l\xc3\xbcbeck', 1
+copiague', 1
+bedford', 2
+norwood', 4
+tokyo', 3
+chapel hill', 2
+millville', 1
+long beach', 10
+ann arbor', 8
+new hampshire', 1
+la irada', 1
+campbelltown', 1
+webster', 1
+galesburg', 2
+hong kong', 3
+st. paul', 1
+brescia', 1
+beijing', 2
+addis ababa', 1
+mackay', 1
+shizuoka', 1
+hamilton ontario', 2
+farmville', 1
+bayam\xc3\xb3n', 1
+bend', 1
+gfohl', 1
+new castle', 1
+seattle', 12
+lakewood', 1
+yonkers', 1
+oslo', 1
+north platte', 1
+kabul', 1
+louisville', 2
+vancouver', 6
+springfield', 7
+edinburgh', 2
+elizabeth', 5
+bolinas', 1
+campbellton', 1
+roselle park', 2
+poughkeepsie', 2
+padua', 1
+grand forks', 1
+billings', 2
+mesa', 1
+elkhorn', 1
+karachi', 1
+sheboygan', 1
+austin', 2
+corona', 1
+ossining', 1
+lubbock', 1
+maklin', 1
+houston', 9
+fresno', 3
+beaumont', 1
+gettysburg', 1
+auburn', 1
+matsumoto', 1
+soissons', 1
+logan', 1
+london', 17
+milwaukee', 12
+bronxville', 8
+chbanieh', 2
+chihuahua', 1
+cochabamba', 1
+fort riley', 1
+lithuania', 1
+denver', 3
+gabrovo', 1
+new orleans', 4
+orange', 4
+phoenixville', 1
+texas', 1
+eugene', 1
+fort sill', 2
+bethesda', 1
+harrisburg', 2
+flint', 1
+akron', 3
+ft. lauderdale', 1
+mamou', 2
+flekkefjord', 1
+detroit', 27
+san rafael', 2, "st.paul's cray", 1
+bridgeport', 3
+newport', 1
+stockholm', 2
+saint andrew', 1
+genoa', 1
+excelsior springs', 2
+menasha', 1
+concord', 3
+cairo', 1
+osaka', 1
+kane', 1
+reykajavik', 1
+portland', 4
+seoul', 5
+canada', 2
+essen', 1
+kiev', 1
+cozad', 1
+urbana', 2
+dobbs ferry', 1
+arkansas', 1
+kent', 2
+fargo', 2
+vega alta', 1
+sierra madre', 1
+wisconsin', 3
+norwich', 1
+albuquerque', 1
+nyack', 1
+switzerland', 1
+south dakota', 1
+york', 3
+shreveport', 2
+red oak', 1
+lynchburg', 1
+new philadelphia', 1
+chincinnati', 1
+long island', 1
+bilbao', 1
+east longmeadow', 1
+torrington', 3
+charleston', 2
+lewiston', 1
+biala', 1
+tijuana', 3
+santa monica', 13
+merrill', 1
+bluff', 1
+quaimaro', 1
+new brunswick', 1
+sharon', 1
+nashville', 1
+arlington', 2
+sandusky', 2
+riga', 3
+kutztown', 2
+new york', 205
+wilkes-barre', 2
+danville', 1
+hollywood', 10
+evansville', 1
+hewitt', 1
+hue', 1
+redondo beach', 3
+geneva', 1
+pittsburgh', 19
+moscow', 1
+moxee', 1
+hopi reservation', 1
+idaho falls', 1
+lublin', 1
+utsunomiya', 1
+honolulu', 3
+teaneck', 2
+verdun', 2
+toronto', 4
+princeton', 1
+atlantic city', 1
+youngstown', 1
+anaheim', 1
+east brunswick', 1
+fort dodge', 2
+snt. counpalm', 1
+ramat gan', 1
+laredo', 1
+bethlehem', 1
+great neck', 1
+portsmouth', 1
+donegal', 1
+grand junction', 1
+boston', 41
+nashiville', 1
+worcester', 6
+sao paulo', 1
+warsaw', 3
+rochester', 4
+dallas', 6
+aberdeen', 3
+san diego', 5
+brandon', 1
+santa maria', 1
+beirut', 2
+peoria', 1
+grand island', 2
+santiago', 4
+norman', 3
+alton', 1
+hammond', 3
+montmorot (jura)', 1
+brooklyn', 33
+red bank', 1
+upland', 1
+muzquiz coahuila', 1
+brno', 3
+queens', 4
+bradford', 1
+omaha', 3
+mobile', 1
+inglewood', 1
+wichita', 3
+kaiserslautern', 1
+dnepropetrovsk', 1
+chester', 1
+los angeles', 80
+hartford', 7
+barceloneta', 1
+connellsville', 1
+mainz', 1
+east jerusalem', 2
+edmundston new brunswick', 1
+gdynia', 1
+meridianville', 1
+manchester', 1
+wydney', 1
+derry', 1
+waterville', 1
+lansing', 2
+wayne', 1
+richmond hill', 1
+encino', 1
+nampa', 1
+rotterdam', 1
+edmonton', 1
+wooster', 3
+boulder', 3
+lake charles', 3
+cortex', 1
+east orange', 2
+stoughton', 1
+new york city', 2
+st. helena', 1
+toledo', 2
+st louis', 1
+st. louis', 6
+budapest', 1
+east lansing', 2
+luton', 1
+bueno aires', 1
+wilmington', 1
+lexington', 4
+terre haute', 3
+lee city', 1
+wiener neustadt', 1
+glendale', 1
+salt lake city', 4
+wheeling', 1
+kalamazoo', 2
+anturce', 1
+reykjavik', 2
+old orchard beach', 1
+andover', 1
+cologne', 5
+north tonawanda', 4
+mount kisco', 1
+euclid', 2
+branson', 1
+lancaster', 1
+daly city', 1
+fontana', 2
+somerville', 1
+tucson', 5
+gottingen', 1
+bad kreuznach', 1
+gallipolis', 2
+hazleton', 2
+bluffton', 1
+paisley', 1
+grosse point', 1
+saigon', 1
+teheran', 1
+marietta', 1
+semeniskiai', 1
+ames', 1
+lilienthal', 2
+greenwich', 1
+bucyrus', 2
+canton', 3
+reviere du loup', 1
+herford', 1
+kankakee', 1
+stuttgart', 1
+las vegas', 1
+malden', 4
+bronx', 16
+baltimore', 7
+berkeley', 5
+fort bragg', 1
+salinas', 1
+pomona', 3
+fukushima', 1
+perislav poltava', 1
+oakland', 5
+stevens point', 1
+midland', 1
+conyers', 1
+buenos aires', 6
+hamilton', 2
+fortaleza', 1
+barre', 2
+tupelo', 1
+espanola', 1
+corpus christi', 1
+louisiana', 1
+naples', 2
+merano', 1
+liverpool', 1
+pittsfield', 4
+huntsville', 1
+wadena', 1
+gap', 1
+hamburg', 2
+atlanta', 2
+vallejo', 1
+mason city', 2
+panorama city', 1
+chicago city', 1
+freeport', 1
+augusta', 4
+monrovia', 2
+oak ridge', 3
+des moines', 2
+oklahoma city', 7
+davenport', 2
+san juan', 6
+compton', 1
+fort lewis', 1
+mexico', 3
+new port', 1
+east newark', 1
+birthplace city', 1
+tacoma', 1
+kontum', 1
+monroe', 4
+barcelona', 2
+albany', 3
+italy', 1
+media', 1
+woodland', 1
+rock springs', 1
+dalsj\xc3\xb6fors', 1
+manila', 1
+fort campbell', 2
+long branch', 2
+mexico city', 4
+leonia', 1
+indianapolis', 6
+columbia', 2
+great falls', 1
+oceanside', 2
+sacramento', 4
+kansas city', 6
+sunburg', 1
+hammonton', 1
+palo alto', 2
+oak park', 1
+mcpherson', 3
+krefeld', 1
+keewanee', 1
+layfayette', 2
+chicago heights', 3
+south bend', 3
+oneida', 1
+eureka', 1
+el paso', 7
+grand rapids', 1
+brownsville', 1
+jalapa veracruz', 1
+calcutta', 2
+woburn', 1
+west fargo', 1
+hastings', 1
+hermosa beach', 1
+brisbane', 1
+chengdu sichuan', 2
+bayamo\xcc\x81n', 1
+bloomfield', 1
+abbotsford', 1
+birmingham', 2
+taiwan', 1
+redwood city', 1
+ithaca', 3
+hodgeman city', 1
+barbados', 1
+belfast', 1
+chappaqua', 1
+winchester', 1
+guaimaro', 1
+quincy', 1
+morristown', 1
+evanston', 2
+plainfield', 2
+riga livonia', 1
+sydney', 2
+torrance', 1
+herington', 1
+sellersville', 1
+taegu', 1
+jefferson island', 1
+lincoln', 1
+munich', 1
+brookline', 1
+newcastle', 3
+tel aviv', 2
+duboise crossroads', 1
+jacksonville', 2
+baarn', 1
+braddock', 1
+englewood', 1
+dodge city', 2
+saginaw', 1
+miami', 10
+baton rouge', 1
+marblehead', 1
+grantsville', 1
+fort thomas', 1
+mexia', 1
+maklin,saskatchewan', 1
+san remo', 1
+oelwein', 1
+madrid', 4
+whitefish bay', 1
+abidjan', 1
+la crosse', 1
+new britain', 1
+qazvin', 1
+cleveland', 14
+panama canal', 1
+redbank', 1
+new haven', 10
+lead', 1
+la jolla indian reservation', 1
+dayton', 2
+borisoglebsk tambov', 1
+newark', 13
+providence', 14
+fort wayne', 5
+lahore', 1
+columbus', 8
+sherman', 1
+port arthur', 2
+jersey city', 6
+beardstown', 1
+rahway', 2
+boothbay harbor', 1
+port-au-prince', 1
+norridge', 1
+fall river', 1
+fort worth', 6
+maspeth', 1
+melbourne', 1
+pendleton', 1
+stuart', 1
+eganville ontario', 1
+greensboro', 2
+cambridge', 4
+clinton', 1
+hanoi', 1
+washington', 2
+united states', 4
+lakeview', 1
+gary', 2
+amsterdam', 2
+jerusalem', 5
+corsica', 1
+ontario', 1
+fujian province', 1
+belgrade', 1
+waco', 2
+new jersey', 2
+zurich', 2
+philadelphia', 34
+ponce', 1
+santurce', 1
+lago', 1
+glen ridge', 5
+valencia', 2
+boulogne-billancourt', 1
+vienna', 1
+palm springs', 1
+danbury', 1
+south orange', 1
+boulogne', 1
+national city', 6
+bern', 1
+panama canal zone', 2
+lynn', 1
+nuremberg', 3
+kastoria macedonia', 1
+fort collins', 1
+santa fe', 5
+cocoa beach', 1
+neosho', 1
+plymouth', 4
+royal oak', 1
+an yang city', 1
+highland park', 3
+shchors', 1
+saint paul', 1
+kingston', 3
+san leandro', 1
+minneapolis', 8
+rabat', 1
+salem', 1
+yokohama', 2
+panama city', 1
+erie', 2
+veracruz', 1
+caracas', 1
+pauls valley', 1
+bitburg', 1
+downpatrick', 1
+gainesville', 1
+pasadena', 11
+kansas', 1
+far rockaway', 1
+rochdale', 1
+san antonio', 3
+nice', 1
+phoenix', 1
+marlboro', 1
+waterbury', 2
+san jose', 5
+northport', 1
+dubuque', 1
+neuch\xc3\xa2tel', 1
+dearborn', 9
+tarrytown', 1
+havana', 2
+ventura', 1
+patuxant river', 1
+heber city', 1
+asheville', 2
+ottawa', 1
+watertown', 1
+summit', 2
+lafayette', 1
+westfield', 1
+buffalo', 9
+santa barbara', 1}

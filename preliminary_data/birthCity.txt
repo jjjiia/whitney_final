@@ -1,0 +1,1905 @@
+birthplace city
+baarn
+boston
+washington
+liverpool
+neuchâtel
+hobart
+flushing
+detroit
+kingston
+hammond
+lake forest
+evanston
+soissons
+
+san diego
+brooklyn
+mcallen
+bayamón
+cincinnati
+queens
+new york
+kingston
+east longmeadow
+chicago
+honolulu
+eganville ontario
+los angeles
+los gatos
+los angeles
+los angeles
+fresno
+ithaca
+boston
+east orange
+huntsville
+heber city
+boston
+houston
+grand island
+ft. lauderdale
+madrid
+manila
+erie
+euclid
+syracuse
+northport
+new york
+ann arbor
+
+honolulu
+bitburg
+miami
+fort collins
+san francisco
+pomona
+los angeles
+los angeles
+fontana
+san remo
+milwaukee
+menasha
+seattle
+lynchburg
+portsmouth
+dalsjöfors
+columbia
+hazelton
+philadelphia
+philadelphia
+cincinnati
+new york
+new york
+liberty
+derry
+hastings
+wadena
+ann arbor
+watertown
+new orleans
+fukushima
+jerusalem
+ames
+springfield
+hawaii
+mainz
+conyers
+boulogne-billancourt
+jacksonville
+seaford
+bridgeport
+chengdu sichuan
+hamilton ontario
+sydney
+brisbane
+dallas
+vancouver
+columbus
+lakeview
+santa monica
+branson
+bayamón
+
+beirut
+burlington
+whitefish bay
+st. paul
+baltimore
+united states
+boston
+fort worth
+manchester
+krefeld
+houston
+mansfield
+cologne
+detroit
+chicago
+charleville-mezieres
+aberdeen
+fairfax
+mexia
+bilbao
+billings
+dearborn
+worcester
+chicago
+munich
+pasadena
+hollywood
+braddock
+united states
+houston
+gdynia
+west fargo
+new york
+new york
+st. louis
+boston
+boston
+chicago
+athens
+cologne
+verdun
+miami
+boulder
+toronto
+redwood city
+los angeles
+tucson
+seattle
+new hampshire
+marlboro
+new york
+islip
+new york
+jamaica
+elizabeth
+texas
+london
+plattsburgh
+mount kisco
+buffalo
+warsaw
+rochester
+boston
+elkhorn
+hampton
+philadelphia
+toledo
+east lansing
+woburn
+yokohama
+miami
+albuquerque
+fort lewis
+toledo
+marion
+dayton
+chicago
+new york
+milwaukee
+east newark
+edina
+boston
+chicago
+leeds
+sierra madre
+pasadena
+los angeles
+los angeles
+hue
+warsaw
+mexico
+new york
+new york
+concord
+boston
+boston
+easton
+baltimore
+new orleans
+lilienthal
+nice
+montmorot (jura)
+
+stamford
+san francisco
+los angeles
+los angeles
+kamloops
+ontario
+chicago
+karachi
+meridianville
+amsterdam
+eindovern
+providence
+chicago
+jerusalem
+ann arbor
+galesburg
+mansfield
+new york
+chicago
+los angeles
+lima
+columbia
+charleston
+canton
+long branch
+englewood
+saint cloud
+royal oak
+boston
+chicago
+essen
+london
+hartford
+woodland
+oceanside
+oakland
+newport beach
+newcastle
+los angeles
+los angeles
+hollywood
+san francisco
+san francisco
+san francisco
+los angeles
+los angeles
+mexico
+port-au-prince
+miami
+la crosse
+valencia
+oak ridge
+schaffhausen
+geneva
+stockholm
+philadelphia
+cincinnati
+oslo
+chapel hill
+poughkeepsie
+new york
+new york
+new york
+new york
+new york
+bronxville
+teaneck
+saint louis
+old orchard beach
+boston
+baton rouge
+east jerusalem
+chicago
+saint maries
+budapest
+atlanta
+corsica
+miami
+york
+kent
+new haven
+cambridge
+santa monica
+san francisco
+pasadena
+los angeles
+hermosa beach
+los angeles
+buenos aires
+philadelphia
+stevens point
+stuart
+san francisco
+hazleton
+national city
+bern
+lafayette
+jersey city
+united states
+paisley
+boston
+niagara falls
+new york
+princeton
+st. louis
+panorama city
+concord
+chicago
+stuttgart
+chester
+santa monica
+houston
+houston
+houston
+sumter
+tulsa
+ann arbor
+new york
+bronx
+las vegas
+grand rapids
+san francisco
+sacramento
+pasadena
+palo alto
+los angeles
+los angeles
+los angeles
+los angeles
+inglewood
+hollywood
+eureka
+vienna
+providence
+edmundston new brunswick
+brescia
+sunburg
+bloomfield
+webster
+
+stockholm
+colombo
+philadelphia
+gettysburg
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+leonia
+grosse point
+shreveport
+saint andrew
+merano
+urbana
+chicago
+hong kong
+lilienthal
+cologne
+columbus
+paris
+boulogne
+london
+london
+wallingford
+norwich
+san francisco
+san francisco
+los angeles
+mackay
+lakewood
+los angeles
+los angeles
+philadelphia
+edinburgh
+albany
+dearborn
+san francisco
+san francisco
+barceloneta
+philadelphia
+havana
+alton
+toronto
+edmonton
+milwaukee
+vancouver
+abbotsford
+sacramento
+zurich
+encino
+belgrade
+detroit
+snt. counpalm
+
+brandon
+palm springs
+providence
+
+seattle
+seattle
+philadelphia
+tarrytown
+poughkeepsie
+buffalo
+minneapolis
+arlington
+louisville
+fairfield
+chicago
+hamburg
+london
+new haven
+santa monica
+san francisco
+escondido
+anaheim
+
+philadelphia
+norridge
+phoenixville
+paris
+tucson
+santa fe
+omaha
+london
+
+richmond
+barre
+salt lake city
+wilmington
+sandusky
+euclid
+hackensack
+tuxpan
+tijuana
+boston
+norwood
+shizuoka
+fort dodge
+bradford
+san francisco
+san francisco
+los angeles
+los angeles
+los angeles
+los angeles
+buenos aires
+hong kong
+miami
+buenos aires
+minneapolis
+wheeling
+spokane
+seattle
+houston
+madrid
+lublin
+pittsburgh
+new castle
+portland
+syracuse
+new york
+ithaca
+brooklyn
+detroit
+detroit
+cambridge
+plymouth
+semeniskiai
+padua
+dublin
+hammond
+addis ababa
+st.paul's cray
+london
+stamford
+new haven
+danbury
+beijing
+reviere du loup
+montreal
+san francisco
+oceanside
+phoenix
+new york
+st. louis
+new york
+santa maria
+kontum
+panama canal zone
+san antonio
+montreal
+detroit
+
+matsumoto
+kansas city
+north tonawanda
+buffalo
+detroit
+alexandria
+santa monica
+gottingen
+ottawa
+ann arbor
+philadelphia
+
+pittsburgh
+queens
+new york
+new york
+new york
+brooklyn
+brooklyn
+jersey city
+lansing
+boston
+chbanieh
+wichita
+paris
+waterbury
+litchfield
+denver
+beijing
+san diego
+redondo beach
+new york
+akron
+tacoma
+downpatrick
+omaha
+nyack
+new york
+milwaukee
+detroit
+santa fe
+oklahoma city
+rochester
+ann arbor
+tel aviv
+kane
+newark
+east jerusalem
+new york
+detroit
+ann arbor
+dodge city
+chicago
+ventura
+san francisco
+la irada
+caracas
+edinburgh
+providence
+pittsburgh
+fort sill
+queens
+new york
+new york
+new york
+new york
+new york
+new york
+springfield
+parsippany
+riga
+taegu
+abidjan
+italy
+ramat-gan
+jerusalem
+jerusalem
+chicago
+nuremberg
+kaiserslautern
+vancouver
+san rafael
+san francisco
+san francisco
+los angeles
+gfohl
+gainesville
+barre
+richmond
+san juan
+campbellton
+an yang city
+arkansas
+milwaukee
+
+logan
+columbus
+christchurch
+islip
+plainfield
+osaka
+chicago
+san leandro
+san jose
+pomona
+vaxholm
+vega alta
+nampa
+reykjavik
+glendale
+new york
+amsterdam
+brookline
+kalemyo
+farmville
+philadelphia
+monroe
+galesburg
+united states
+bethlehem
+minneapolis
+birmingham
+norfolk
+miami
+new york
+new york
+oneida
+boston
+boston
+chbanieh
+indianapolis
+calcutta
+kabul
+hewitt
+milwaukee
+madrid
+jamaica
+pittsburgh
+columbus
+chicago
+stamford
+dallas
+new britain
+fort worth
+fort worth
+corpus christi
+lübeck
+minneapolis
+plymouth
+buenos aires
+indianapolis
+springfield
+saigon
+new york
+tijuana
+norwood
+norwood
+south bend
+pomona
+redondo beach
+bad kreuznach
+minneapolis
+lubbock
+providence
+warsaw
+philadelphia
+oklahoma city
+fort sill
+cincinnati
+brooklyn
+newark
+ithaca
+bronxville
+rahway
+tupelo
+detroit and
+mexico
+baltimore
+louisiana
+fukuoka
+genoa
+tel aviv
+qazvin
+honolulu
+cologne
+london
+cairo
+wallingford
+boulder
+fujian province
+cortex
+bolinas
+são paulo
+bueno aires
+des moines
+new brunswick
+south bend
+oklahoma city
+new york
+new orleans
+san antonio
+san francisco
+new york
+east brunswick
+indianapolis
+oakland
+waterbury
+boston
+philadelphia
+tijuana
+anturce
+birmingham
+new york
+new york
+fort wayne
+lahore
+salt lake city
+omaha
+vicksburg
+norwood
+chicago
+hartford
+san francisco
+newcastle
+los angeles
+los angeles
+los angeles
+redondo beach
+tucson
+teaneck
+hartford
+moscow
+
+seattle
+waco
+dnepropetrovsk
+columbus
+chapel hill
+new york
+new york
+new york
+new york
+new york
+liberty
+grand island
+buffalo
+newark
+morristown
+long branch
+great falls
+veracruz
+marblehead
+lewiston
+riga
+fort riley
+naples
+belfast
+davenport
+bluffton
+urbana
+springfield
+chicago heights
+beardstown
+paris
+london
+guaimaro
+hartford
+santiago
+santa barbara
+los angeles
+sao paulo
+dehra dun
+monrovia
+stockton
+panama canal
+
+detroit
+mcpherson
+tucson
+boston
+salt lake city
+detroit
+san francisco
+providence
+kansas city
+chicago heights
+los angeles
+newark
+flint
+chicago
+el paso
+dallas
+brooklyn
+santa fe
+new york
+lexington
+sandusky
+wayne
+chicago
+san francisco
+newcastle
+los angeles
+los angeles
+wydney
+jalapa veracruz
+stoughton
+
+norfolk
+bratslav
+el paso
+oak ridge
+nashiville
+
+providence
+providence
+new port
+pittsburgh
+pittsburgh
+akron
+syracuse
+new york
+new york
+new york
+new york
+brooklyn
+brooklyn
+brooklyn
+bronxville
+bronx
+bronx
+summit
+orange
+glen ridge
+elizabeth
+st. louis
+neosho
+kansas city
+detroit
+muzquiz coahuila
+plymouth
+arlington
+kingston
+chicago heights
+verdun
+rochdale
+london
+new haven
+new haven
+bridgeport
+san francisco
+san francisco
+los angeles
+long beach
+hollywood
+escondido
+fortaleza
+buenos aires
+san juan
+pittsburgh
+cambridge
+calcutta
+monterey
+los angeles
+maklin
+naples
+vancouver
+vancouver
+orange
+espanola
+new york
+hanoi
+orange
+new york
+cleveland
+new york
+chicago
+hong kong
+atlanta
+los angeles
+madison
+buffalo
+washington
+el paso
+tucson
+paris
+la jolla indian reservation
+new york
+pittsburgh
+philadelphia
+erie
+canton
+dearborn
+patuxant river
+chicago
+toronto
+san jose
+pasadena
+los angeles
+los angeles
+hollywood
+
+
+norfolk
+san antonio
+taiwan
+barcelona
+santurce
+danville
+cleveland
+cleveland
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+liberty
+brooklyn
+brooklyn
+bronx
+bronx
+summit
+jersey city
+glen ridge
+billings
+saint louis
+mexico city
+plymouth
+boston
+boston
+baltimore
+oelwein
+nuremberg
+miami
+jacksonville
+cocoa beach
+wallingford
+san francisco
+los angeles
+los angeles
+los angeles
+la jolla
+freeport
+seoul
+paris
+philadelphia
+monrovia
+wisconsin
+new york
+new york
+chihuahua
+los angeles
+hollywood
+fontana
+philadelphia
+hamilton ontario
+santa monica
+boston
+chicago
+el paso
+los angeles
+
+port arthur
+rochester
+hartford
+cleveland
+pauls valley
+el paso
+lexington
+midland
+dearborn
+long beach
+long beach
+havana
+elizabeth
+seattle
+monroe
+lexington
+pittsburgh
+philadelphia
+kutztown
+cleveland
+cleveland
+norman
+syracuse
+newburgh
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+far rockaway
+brooklyn
+bronx
+redbank
+newark
+glen ridge
+elizabeth
+bronxville
+detroit
+malden
+pittsfield
+fort dodge
+chicago
+chicago
+idaho falls
+nuremberg
+augusta
+miami
+london
+london
+quaimaro
+wallingford
+new haven
+santa monica
+san rafael
+san jose
+san francisco
+long beach
+hollywood
+portland
+cincinnati
+fort wayne
+new york
+pasadena
+chicago
+santa fe
+new york
+chicago
+new york
+chicago
+torrance
+ramat gan
+
+chicago
+ponce
+chicago
+herford
+new york
+dearborn
+boston
+sacramento
+pasadena
+los angeles
+cochabamba
+barbados
+seattle
+brownsville
+barcelona
+providence
+york
+york
+pittsburgh
+hazelton
+campbelltown
+bryn mawr
+cleveland
+gastonia
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+bronxville
+newark
+detroit
+oak ridge
+lynn
+holyoke
+boston
+boston
+seoul
+utsunomiya
+chicago
+chicago
+wallingford
+new haven
+hartford
+shanghai
+santa monica
+san francisco
+san francisco
+san diego
+los angeles
+los angeles
+hollywood
+hollywood
+gruz alta
+hopi reservation
+canton
+new york
+new york
+hackensack
+palo alto
+cleveland
+hammond
+reykjavik
+brno
+santa monica
+brooklyn
+dallas
+santa monica
+syracuse
+yonkers
+cambridge
+montreal
+new york
+chicago
+salt lake city
+chappaqua
+oklahoma city
+
+new york
+new york
+chicago
+dearborn
+pittsburgh
+
+
+san juan
+hazleton
+panama canal zone
+gallipolis
+norman
+gastonia
+richmond hill
+north tonawanda
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+hempstead
+great neck
+buffalo
+brooklyn
+bronx
+red bank
+newark
+jersey city
+glen ridge
+east orange
+rabat
+saint louis
+excelsior springs
+lansing
+detroit
+detroit
+ann arbor
+boston
+boston
+boston
+waterville
+wichita
+terre haute
+layfayette
+st. charles
+chicago
+chicago
+augusta
+new haven
+new haven
+santiago
+toronto
+pasadena
+los angeles
+los angeles
+daly city
+east lansing
+fort wayne
+philadelphia
+new york
+san francisco
+brno
+
+detroit
+chicago
+national city
+detroit
+terrell
+san jose
+boston
+houston
+new york
+brooklyn
+kalamazoo
+goodyear
+dallas
+chicago
+bedford
+stamford
+lago
+new york
+pittsburgh
+fargo
+fargo
+davenport
+wisconsin
+milwaukee
+
+beaumont
+providence
+arecibo
+pittsburgh
+philadelphia
+kutztown
+gallipolis
+bucyrus
+norman
+gastonia
+new york
+new york
+new york
+new york
+new york
+new york
+hempstead
+buffalo
+brooklyn
+bronx
+newark
+newark
+glen ridge
+dearborn
+pittsfield
+malden
+seoul
+fort thomas
+miigata
+donegal
+indianapolis
+chicago
+chicago
+augusta
+albany
+paris
+london
+santiago
+newfoundland
+santa monica
+san jose
+albany
+brooklyn
+st louis
+oakland
+cleveland
+new york
+mcpherson
+san francisco
+los angeles
+national city
+detroit
+new york
+boston
+los angeles
+chicago
+north tonawanda
+mcminnville
+los angeles
+new york
+new york
+denver
+newburgh
+
+kalamazoo
+gary
+chicago
+new haven
+cincinnati
+
+alexandria
+fort worth
+wooster
+oklahoma city
+hollywood
+fairfield
+cedar rapids
+rotterdam
+orange
+los angeles
+los angeles
+sydney
+teheran
+council bluffs
+tokyo
+wisconsin
+milwaukee
+mason city
+waco
+providence
+biala
+philadelphia
+philadelphia
+philadelphia
+philadelphia
+mckeesport
+lancaster
+harrisburg
+tulsa
+grand forks
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+flushing
+copiague
+bronx
+santa fe
+plainfield
+jersey city
+highland park
+elizabeth
+minneapolis
+dearborn
+worcester
+winchester
+holyoke
+boston
+boston
+springfield
+bethesda
+lake charles
+beirut
+seoul
+jerusalem
+terre haute
+indianapolis
+st. charles
+chicago
+chicago
+london
+kent
+torrington
+st. helena
+santa monica
+san francisco
+san francisco
+pasadena
+los angeles
+los angeles
+long beach
+gabrovo
+greensboro
+panama city
+zurich
+milwaukee
+san juan
+new york
+detroit
+kansas city
+mesa
+cleveland
+portland
+detroit
+fort meyers
+los angeles
+san francisco
+eugene
+dayton
+boston
+santa monica
+los angeles
+worcester
+tonawanda
+roselle park
+san diego
+benicia
+new york
+los angeles
+denver
+newburgh
+
+fort campbell
+hamilton
+milwaukee
+wooster
+aberdeen
+oklahoma city
+wilkes-barre
+los angeles
+san francisco
+monroe
+providence
+providence
+pittsburgh
+pittsburgh
+philadelphia
+philadelphia
+media
+harrisburg
+hamburg
+springfield
+asheville
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+long island
+buffalo
+brooklyn
+brooklyn
+bronxville
+somerville
+hammonton
+detroit
+detroit
+dearborn
+mexico city
+mexico city
+worcester
+malden
+
+lithuania
+terre haute
+indianapolis
+chicago
+chicago
+chicago
+chicago
+kastoria macedonia
+london
+hartford
+quebec
+quebec
+newfoundland
+sonoma
+san francisco
+long beach
+youngstown
+detroit
+new york
+kansas city
+cleveland
+brooklyn
+brooklyn
+mcpherson
+national city
+moxee
+new york
+terrell
+los angeles
+mexico city
+boston
+dodge city
+los angeles
+los angeles
+north tonawanda
+brooklyn
+montreal
+los angeles
+brno
+maklin,saskatchewan
+alexandria
+whichita
+guatemala city
+sherman
+monroe
+mason city
+nashville
+wilkes-barre
+pittsburgh
+mckeesport
+marietta
+ossining
+new york
+new york
+new york
+new york
+new york
+new york
+bronxville
+bronx
+newark
+atlantic city
+rahway
+worcester
+holyoke
+mamou
+lake charles
+seoul
+keewanee
+chicago
+chicago
+chicago
+quebec
+newfoundland
+san francisco
+san francisco
+long beach
+long beach
+berkeley
+kankakee
+new jersey
+worcester
+fort wayne
+fort wayne
+boston
+seattle
+fort worth
+cleveland
+san francisco
+national city
+los angeles
+newport beach
+boston
+riga
+pittsfield
+salem
+mcminnville
+corona
+los angeles
+hodgeman city
+sheboygan
+philadelphia
+los angeles
+berkeley
+new york
+new york
+norfolk
+andover
+boston
+oklahoma city
+evanston
+lincoln
+chicago
+berkeley
+akron
+evansville
+london
+wooster
+huntington
+paris
+providence
+houston
+flushing
+fresno
+fresno
+chicago
+torrington
+laredo
+oak park
+valencia
+berkeley
+
+portland
+newport
+bryn mawr
+bucyrus
+new york
+los angeles
+los angeles
+berkeley
+lynwood
+philadelphia
+pittsburgh
+milwaukee
+madison
+merrill
+minneapolis
+chicago city
+chicago
+peoria
+cleveland
+buffalo
+austin
+sumber
+charleston
+san juan
+philadelphia
+philadelphia
+cleveland
+brecksville
+flekkefjord
+fort bragg
+westfield
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+brooklyn
+bronx
+jersey city
+st. louis
+saginaw
+boston
+boston
+boothbay harbor
+shreveport
+pineville
+louisville
+tokyo
+red oak
+gary
+chicago
+chicago
+chicago
+miami
+luton
+milford
+santiago
+stockton
+san diego
+pasadena
+pasadena
+los angeles
+compton
+benicia
+wiener neustadt
+greensboro
+racine
+grantsville
+philadelphia
+clinton
+
+sacramento
+el paso
+brooklyn
+rock springs
+seattle
+switzerland
+lead
+columbus
+bronx
+concord
+fall river
+south bend
+chicago
+chicago
+san francisco
+san francisco
+los angeles
+columbus
+chicago
+detroit
+milwaukee
+seattle
+new york
+boston
+springfield
+chicago
+los angeles
+los angeles
+los angeles
+los angeles
+philadelphia
+newark
+sharon
+upland
+oakland
+new york
+chicago
+los angeles
+gap
+lee city
+fort campbell
+chicago
+hamilton
+austin
+chicago
+auburn
+minneapolis
+dubuque
+south orange
+philadelphia
+wichita
+guatemala city
+roselle park
+fort worth
+
+boston
+madrid
+montreal
+los angeles
+
+
+cologne
+jefferson island
+
+
+seattle
+aberdeen
+lexington
+bluff
+shchors
+kiev
+port arthur
+dallas
+south dakota
+duboise crossroads
+riga livonia
+perislav poltava
+borisoglebsk tambov
+biala podlaska
+pittsburgh
+millville
+connellsville
+philadelphia
+pendleton
+bend
+new philadelphia
+cincinnati
+cincinnati
+minot
+asheville
+queens
+niagara falls
+newburgh
+new york city
+new york city
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+new york
+maspeth
+brooklyn
+brooklyn
+brooklyn
+brooklyn
+brooklyn
+brooklyn
+bronxville
+bronx
+bronx
+paterson
+passaic
+newark
+newark
+highland park
+cozad
+st. louis
+kansas city
+excelsior springs
+detroit
+detroit
+pittsfiled
+malden
+baltimore
+baltimore
+quincy
+new orleans
+mamou
+lake charles
+herington
+yokohama
+tokyo
+des moines
+rochester
+layfayette
+highland park
+chicago
+chicago
+chicago
+reykajavik
+bartica
+augusta
+paris
+london
+torrington
+greenwich
+bridgeport
+chengdu sichuan
+quebec
+quebec
+newfoundland
+canada
+canada
+sonoma
+san francisco
+salinas
+los angeles
+long beach
+long beach
+san francisco
+vancouver
+melbourne
+mobile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dobbs ferry
+pittsburgh
+alexandria
+san juan
+san francisco
+
+north platte
+brooklyn
+bronx
+
+bratslav
+
+el paso
+sellersville
+pittsfield
+vallejo
+columbus
+brooklyn
+oakland
+
+brooklyn
+cedar rapids
+new york
+holyoke
+national city
+buenos aires
+new jersey
+new york
+saint paul
+new york
+new york
+grand junction
+boulder
+
+chicago
+chincinnati
+
+baltimore
+kansas
+bedford
+bronx
